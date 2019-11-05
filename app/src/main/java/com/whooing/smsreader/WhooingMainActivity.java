@@ -38,7 +38,6 @@ public class WhooingMainActivity extends AppCompatActivity {
     public WebView whooingWebview;
 
     private static final String WHOOING_CONNECT_URL = "https://whooing.com/sms_app";
-    //private static final String WHOOING_CONNECT_URL = "http:///202.68.228.212/sms_app";
     private static final String WHOOING_UA_STRING = "whooingSMS";
     private final Context WhooingAlertContext = this;
 
